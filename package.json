@@ -1,0 +1,12 @@
+{
+  "name": "predator97x",
+  "version": "1.1.1",
+  "description", "Hackerone white hat researcher",
+  "main": "index.js",
+  "scripts":{
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "ls -la"
+  }
+  "author": "predator_97",
+  "license": "ISC"
+}
